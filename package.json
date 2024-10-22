@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://sohaildotcss.github.io/portfolio",
+  "homepage": "https://sohaildotcss.github.i/portfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://sohaildotcss.github.io/portfolio'",
+    "build-gh": "parcel build --public-url 'https://sohaildotcss.github.com/portfolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
