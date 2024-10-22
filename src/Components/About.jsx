@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/motion-background-img.jpg";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -24,8 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
-
+  "Frontend software engineer specializing in creating accessible digital experiences, with a proven track record of delivering high-quality solutions and fostering effective communication within teams.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
@@ -44,9 +43,7 @@ const skillsList = [
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
  */
-const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
-
+const detailOrQuote = "I'm a passionate Front-End Developer with 0.6 years of experience in React JS and expertise in building responsive, user-friendly web applications. I hold a B.Tech in Computer Science and Engineering and had worked on a range of projects involving modern technologies like JavaScript, Tailwind CSS, and MongoDB. I'm eager to grow my skills further, focusing on Data Structures and Algorithms to excel in product-based companies.";
 const About = () => {
   return (
     <section className="padding" id="about">
