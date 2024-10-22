@@ -31,28 +31,34 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Spotify Music Player",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A fully functional Spotify-inspired music player that lets users play songs, displays dynamic backgrounds, and shows detailed track information, all built with React and API integration.",
+    url: "https://spotify-musicplayer.vercel.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Cloud-Based Student Data Management System",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A Cloud-Based Student Data Management System built with Salesforce for the backend and Next.js with Tailwind CSS for the frontend, providing secure and efficient management of student records.",
+    url: "https://heliums.netlify.app/",
+  },
+  {
+    title: "My Web Development Journey: From Passion to Proficiency",
+    description:
+      "I began my web development journey out of curiosity to understand how websites work, which soon evolved into a passion for front-end technologies. Starting with HTML and CSS, I mastered JavaScript, React, and Tailwind CSS while building various projects. This journey has sharpened my technical skills, problem-solving, and design-thinking, laying a solid foundation for future growth.",
+    url: "",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "I am a Front-End Developer with experience in building responsive, dynamic web applications using technologies like React, Next.js, and Tailwind CSS. My resume highlights key projects, technical skills, and a passion for problem-solving, along with my focus on delivering user-friendly interfaces and clean code.",
+    url: "https://flowcv.com/resume/06se2uvoah",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "GitHub",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Welcome to my GitHub! Here, you'll find projects that highlight my web development journey, from front-end applications to full-stack solutions. I work with technologies like React, Next.js, and Tailwind CSS, focusing on responsive design and API integration. Check out my repositories for clean, maintainable code and my latest projects.",
+    url: "https://github.com/sohaildotcss",
   },
 ];
 
